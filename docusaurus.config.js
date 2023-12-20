@@ -59,10 +59,6 @@ module.exports = {
               to: "docs/getting-started",
             },
             {
-              label: "Installation",
-              to: "docs/getting-started/installation/",
-            },
-            {
               label: "Design Philosophy",
               to: "docs/reference/design-philosophy/",
             },
