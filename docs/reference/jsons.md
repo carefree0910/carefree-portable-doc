@@ -55,7 +55,7 @@ And we can download the corresponding assets by specifying the `downloads` field
 
 ```json
 {
-  "type": "windows",
+  "type": "auto",
   "info": {
     # highlight-start
     "downloads": {
@@ -99,7 +99,7 @@ And then users can download them by:
 
 ```json
 {
-  "type": "windows",
+  "type": "auto",
   "info": {
     # highlight-start
     "downloads": {
@@ -174,7 +174,7 @@ to obtain the full configuration, which should be like:
 
 ```json
 {
-  "type": "windows",
+  "type": "auto",
   "info": {
     # highlight-start
     "python_requirements": [

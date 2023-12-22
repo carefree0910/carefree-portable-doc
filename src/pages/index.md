@@ -6,7 +6,7 @@
 
 ![PyPI version](https://badge.fury.io/py/carefree-portable.svg)
 ![Checks](https://github.com/carefree0910/carefree-portable/actions/workflows/checks.yml/badge.svg)
-![Windows Build](https://github.com/carefree0910/carefree-portable/actions/workflows/package-windows.yml/badge.svg)
+![Build](https://github.com/carefree0910/carefree-portable/actions/workflows/package.yml/badge.svg)
 ![License](https://img.shields.io/github/license/carefree0910/carefree-portable)
 
 <h3>

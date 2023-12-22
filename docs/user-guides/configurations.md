@@ -16,7 +16,7 @@ Typical `cfpot.json` file looks like this:
 
 ```json
 {
-  "type": "windows",
+  "type": "auto",
   "info": {
     "workspace": "carefree-portable",
     "allow_existing": true,
