@@ -7,6 +7,10 @@ import Video from "@site/src/components/Video";
 
 `carefree-portable` 📦️ aims to help you create portable (Python 🐍) projects of your codes / repo!
 
+## AI PC
+
+AI PC is a 'new' concept that Intel proposed (see [here](https://www.intel.com/content/www/us/en/products/docs/processors/core-ultra/ai-pc.html)). Since AI PC users often have zero knowledge about programming, it is important to provide them with a portable version of the AI project. This is where `carefree-portable` 📦️ comes in handy!
+
 ## Highlights
 
 - **Portable**: The generated portable project can be used directly without any extra requirements.
